@@ -1,14 +1,19 @@
 # capstone-data-analytics
 Final Capstone Project for Data Analytics Course
+
 #Project Title
 CIS 480 Capstone - Effects of AI on Higher Education Outcomes
+
 #Overview
 This project is for CIS 480 Fall 2025 covering my capstone data analysis project.
+
 #Technologies used
 PowerBI, Excel
 Python
+
 #How to reproduce the analysis
 In the /documentation/ folder, run python ../scripts/capstone_analysis.py to produce the analytical results
+
 #File structure
 Datasets
 | 29449.xlsx
@@ -30,5 +35,6 @@ Visualizations
 | M4_Visualizations.pbix
 LICENSE
 README.md
+
 #Author name and contact (optional)
 Caleb Marion
